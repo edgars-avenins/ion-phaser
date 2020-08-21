@@ -1,5 +1,5 @@
 {
-  "name": "demo-react",
+  "name": "test-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,7 @@
     "@types/node": "^13.13.4",
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.7",
-    "phaser": "^3.23.0",
+    "phaser": "^3.24.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
